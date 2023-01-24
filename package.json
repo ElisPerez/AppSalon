@@ -7,8 +7,12 @@
     "dev": "gulp"
   },
   "node": "^14 || ^16 || ^18",
-  "author": "Juan De la torre @codigoconjuan",
-  "license": "ISC",
+  "author": {
+    "name": "Elis Antonio Perez",
+    "email": "elisperezmusic@gmail.com",
+    "url": "https://www.instagram.com/elisperezmusic"
+  },
+  "license": "MIT",
   "devDependencies": {
     "cssnano": "^5.1.10",
     "gulp": "^4.0.2",
